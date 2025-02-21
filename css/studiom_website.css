@@ -289,7 +289,8 @@ i.scroll:hover {
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
-    background-size: 800px;
+    background-size: 750px;
+    background-color: #1B1E23;
   }
 
   .callout {
