@@ -232,7 +232,10 @@ i.service-icon {
 
 /* More Info*/
 .more-info {
-  padding: 50px 0;
+  padding: 50px;
+  background-image: url('../img/website_background_white_solid.png');
+  background-size: 1000px;
+  background-position: center;
 }
 
 .more-info h2 {
@@ -291,6 +294,10 @@ i.scroll:hover {
     -o-background-size: contain;
     background-size: 750px;
     background-color: #1B1E23;
+  }
+
+  .more-info {
+    background-size: 1400px;
   }
 
   .callout {

@@ -2333,6 +2333,12 @@ fieldset[disabled] .btn-default.active {
   border-color: #6a6464;
 }
 
+.btn-more {
+  color: #ffffff;
+  background-color: #6a6464;
+  border-color: #6a6464;
+}
+
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
